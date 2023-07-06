@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1576349571 source:h:\users\hp\documents\cic\semestre 3\pratique\algorithmiques numériques\resolution_equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+
+1582796825 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"control_fonction.h"
+	"equation_lineaire.h"
+	"interpolation_lineaire.h"
+	"equation_differentielle.h"
+	"save_me.h"
+
+1577960701 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\fonctions.h
+
+1577960913 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+
+1582794255 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\control_fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+
+1582643365 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_lineaire.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+	"save_me.h"
+
+1581775905 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\control_fonction.h
+
+1582275419 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_lineaire.h
+
+1582790170 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\interpolation_lineaire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"equation_lineaire.h"
+
+1581199364 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\interpolation_lineaire.h
+
+1581784951 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_differentielle.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"control_fonction.h"
+
+1581784951 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_differentielle.h
+
+1582138742 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\determinantplus.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1582136543 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\determinantplus.h
+
+1582275419 source:h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\save_me.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1582275419 h:\users\hp\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\save_me.h
+
+1582794255 source:c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\control_fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+
+1581784951 source:c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_differentielle.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"control_fonction.h"
+
+1581775905 c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\control_fonction.h
+
+1582643365 source:c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_lineaire.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+	"save_me.h"
+
+1582275419 c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\save_me.h
+
+1582790170 source:c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\interpolation_lineaire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"equation_lineaire.h"
+
+1582275419 c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_lineaire.h
+
+1582796825 source:c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"control_fonction.h"
+	"equation_lineaire.h"
+	"interpolation_lineaire.h"
+	"equation_differentielle.h"
+	"save_me.h"
+
+1581199364 c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\interpolation_lineaire.h
+
+1581784951 c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_differentielle.h
+
+1582275419 source:c:\users\tiass\documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\save_me.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1582794255 source:c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\control_fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+
+1581784951 source:c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_differentielle.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"control_fonction.h"
+
+1581775905 c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\control_fonction.h
+
+1582643365 source:c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_lineaire.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<ctype.h>
+	<locale.h>
+	"save_me.h"
+
+1582275419 c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\save_me.h
+
+1582790170 source:c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\interpolation_lineaire.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"equation_lineaire.h"
+
+1582275419 c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_lineaire.h
+
+1688636254 source:c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"control_fonction.h"
+	"equation_lineaire.h"
+	"interpolation_lineaire.h"
+	"equation_differentielle.h"
+	"save_me.h"
+
+1581199364 c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\interpolation_lineaire.h
+
+1581784951 c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\equation_differentielle.h
+
+1582275419 source:c:\users\tiass\documents\my documents\cic\semestre_3\pratique\algorithmiques_numériques\resolution_equation\save_me.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
